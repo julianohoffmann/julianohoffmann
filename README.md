@@ -4,4 +4,4 @@ Sou Programador de sistemas, trabalho com desenvolvimento de sofware, atualmente
 - 🔭 Aperfeiçoando no Python
 - 🌱 Tenho estudado JAVA
 - 🤔 Disseminador de conhecimentos sobre programação em C, HTML, CSS, JavasCript, NodeJS, Linux, Servidores e Bancos de Dados
-- 📫 Meu contato: https://www.linkedin.com/in/juliano-hoffmann-h
+- 📫 Meu contato: https://www.linkedin.com/in/juliano-h
